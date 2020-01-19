@@ -1,0 +1,6 @@
+framework module Pods_WomnBlog_WomnBlogUITests {
+  umbrella header "Pods-WomnBlog-WomnBlogUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
